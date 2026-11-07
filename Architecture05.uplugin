@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 3,
-	"VersionName": "3.0.3",
+	"VersionName": "3.0.4",
 	"FriendlyName": "Architecture05",
 	"Description": "",
 	"Category": "Modding",
@@ -24,9 +24,9 @@
 		{
 			"Name": "JeanMichelCommonlib",
 			"Enabled": true,
-			"SemVersion": "3.0.1"
+			"SemVersion": "3.0.2"
 		}
 	],
-	"SemVersion": "3.0.3",
-	"GameVersion": ">=502094"
+	"SemVersion": "3.0.4",
+	"GameVersion": ">=517554"
 }
